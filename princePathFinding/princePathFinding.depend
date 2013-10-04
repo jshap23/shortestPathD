@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1379355613 source:c:\c++\tm_exam\part1\q5\princepathfinding\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+
