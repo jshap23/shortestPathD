@@ -12,7 +12,7 @@ void Dijkstra(int *, int *, int[LEVELS][LEVELS]);
 
 int main()
 {
-    cout << "Problem 5:  Prince of Persia Path Finding" << endl;
+    cout << "Prince of Persia Path Finding" << endl;
     ofstream myfile;
     myfile.open ("Q5_OUTPUT.txt");
 
